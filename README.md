@@ -14,7 +14,7 @@ Python 3 dependencies:
 
 ## Notice
 
-***Attention***
+***Attention:***
 Harmonizing MODIS to Landsat images has been proved important to improve the reconstruction accuracy of ROBOT (and probably any other spatiotemporal fusion algorithm), and this repo provided a script (harmonization.py) to do this harmonization as a reference (there's got to be better methods).
 
 This is just a demo code. If you require the algorithm to be implemented with an interface more suitable to your preferences, or if you need some generated data for your research, please feel free to contact me.
